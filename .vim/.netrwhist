@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/wreath/.config/autokey'
+let g:netrw_dirhist_2='/home/wreath/cvim/.git'
+let g:netrw_dirhist_3='/home/wreath/cvim'
+let g:netrw_dirhist_4='/home/wreath/cvim/.git'
+let g:netrw_dirhist_5='/home/wreath/.vim'
+let g:netrw_dirhist_6='/etc/init.d'
+let g:netrw_dirhist_7='/etc/init'
+let g:netrw_dirhist_8='/home/wreath/.config'
+let g:netrw_dirhist_9='/home/wreath/.vim'
